@@ -1,6 +1,6 @@
 <div align="center">
 
-# Numeri (PhoenixAceVFX)
+# _Numeri
 > Software Developer & Linux Enthusiast from Japan  
 > UWSM Hyprland & KDE Plasma on Arch Linux
 
@@ -12,11 +12,11 @@
 | [![HyprUpld.Space](https://uptime.betterstack.com/status-badges/v3/monitor/1tg12.svg)](https://status.arch-linux.pro) | [![Redline API](https://uptime.betterstack.com/status-badges/v3/monitor/1jo77.svg)](https://status.arch-linux.pro) | [![NewGenKillers.lol](https://uptime.betterstack.com/status-badges/v3/monitor/1pt55.svg)](https://status.arch-linux.pro) |
 
 ## GitHub Statistics
-[![trophy](https://github-profile-trophy.vercel.app/?username=PhoenixAceVFX&theme=radical&row=1&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Numeri-Dev&theme=radical&row=1&column=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=phoenixacevfx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phoenixacevfx&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Numeri-Dev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Numeri-Dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Most Used Languages" />
 </div>
 
 ## Technical Skills
@@ -84,13 +84,13 @@
 ## Connect With Me
 
 <div align="center">
-  <a href="https://youtube.com/@PhoenixAceVFX" target="_blank">
+  <a href="https://youtube.com/@Numeri-Dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Youtube" />
   </a>
   <a href="https://discord.com/users/1016895892055396484" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Discord" />
   </a>
-  <a href="https://patreon.com/PhoenixAceVFX" target="_blank">
+  <a href="https://patreon.com/Numeri-Dev" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Patreon" />
   </a>
 </div>
@@ -99,8 +99,8 @@
 📧 Email:
 - numeri@numeri.dev
 
-<img src="https://raw.githubusercontent.com/phoenixacevfx/phoenixacevfx/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Numeri-Dev/Numeri-Dev/output/snake.svg" alt="Snake animation" />
 
-<img src="https://count.getloli.com/@PhoenixAceVFX?name=PhoenixAceVFX&theme=booru-touhoulat&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
+<img src="https://count.getloli.com/@Numeri-Dev?name=Numeri-Dev&theme=booru-touhoulat&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=auto">
 
 </div>
